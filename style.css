@@ -1,0 +1,26 @@
+body {
+  margin: auto;
+  width: 70%;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h1, h2, h3 {
+  font-family: sans-serif;
+  margin-top: 1.5em;
+}
+
+table, table th, table td {
+  border: 1px solid black;
+}
+
+figcaption {
+  font-style: oblique;
+}
+
+figure {
+  float: right;
+  margin: 10px 0 30px 30px;
+}
